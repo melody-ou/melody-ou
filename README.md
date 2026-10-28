@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Melody Ou
 
-<!--
-**melody-ou/melody-ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Kelley MBA graduate with a background in construction management and service in the U.S. Army Reserve.
 
-Here are some ideas to get you started:
+I'm interested in connecting business needs, people, and technology to improve processes and deliver practical results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of interest
+- Project and program management
+- Business analysis and process improvement
+- Cross-functional collaboration and delivery
+- Technology-enabled business solutions
+
+## About this portfolio
+I'm building this portfolio to share selected projects, case studies, and tools that demonstrate how I approach problems, organize work, and communicate decisions.
+
+Based in Denver, Colorado.
